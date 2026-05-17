@@ -1,0 +1,62 @@
+[
+  {
+    "course_id": "CS101",
+    "name": "数据结构",
+    "teacher": "张伟",
+    "department": "计算机学院",
+    "credits": 3,
+    "capacity": 60,
+    "enrolled": 45,
+    "time": "周一 1-2 节"
+  },
+  {
+    "course_id": "CS202",
+    "name": "人工智能导论",
+    "teacher": "王强",
+    "department": "计算机学院",
+    "credits": 3,
+    "capacity": 50,
+    "enrolled": 50,
+    "time": "周三 5-6 节"
+  },
+  {
+    "course_id": "CS303",
+    "name": "数据库系统",
+    "teacher": "陈晨",
+    "department": "计算机学院",
+    "credits": 3,
+    "capacity": 45,
+    "enrolled": 30,
+    "time": "周五 3-4 节"
+  },
+  {
+    "course_id": "MA201",
+    "name": "高等数学",
+    "teacher": "李娜",
+    "department": "数学学院",
+    "credits": 4,
+    "capacity": 100,
+    "enrolled": 88,
+    "time": "周二 3-4 节"
+  },
+  {
+    "course_id": "MA305",
+    "name": "概率论与数理统计",
+    "teacher": "赵敏",
+    "department": "数学学院",
+    "credits": 3,
+    "capacity": 80,
+    "enrolled": 60,
+    "time": "周四 1-2 节"
+  },
+  {
+    "course_id": "PH110",
+    "name": "大学物理",
+    "teacher": "刘洋",
+    "department": "物理学院",
+    "credits": 3,
+    "capacity": 70,
+    "enrolled": 65,
+    "time": "周五 7-8 节"
+  }
+]
